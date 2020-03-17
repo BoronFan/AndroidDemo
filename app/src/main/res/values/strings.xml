@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SlideDemo</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">更多</string>
+</resources>
